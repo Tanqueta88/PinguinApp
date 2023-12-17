@@ -34,3 +34,13 @@ In this project, build a penguin. Using CSS transforms to position and resize pa
 
    </details>
    <hr>
+
+   <a name="installation"></a>    
+## Project installation
+1 - Clone the project from the following Github URL. 
+```
+$ git clone [git@github.com:Tanqueta88/PianoApp.git](https://github.com/Tanqueta88/PianoApp.git)
+
+```
+
+2 - Open the project in your preferred IDE. 
