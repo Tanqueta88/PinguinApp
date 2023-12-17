@@ -1,4 +1,4 @@
-PinguinApp
+<u><strong>PinguinApp</strong></u>
 
 ![Image text](https://github.com/Tanqueta88/PinguinApp/blob/master/PinguinApp.png)
 
